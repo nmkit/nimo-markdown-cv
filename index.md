@@ -5,10 +5,10 @@ email:
     url: mailto:kit91134@gmail.com
     text: kit91134@gmail.com
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://nmkit.github.io/tng-markdown-cv/
+    text: https://nmkit.github.io/tng-markdown-cv/
 ---
-# Wode __Ni__
+# Terry __NG__
 
 <!--
 include contact information from the front matter
@@ -21,26 +21,25 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Massachusetts Institute of Technology__ `2019.6 -`
 ```
-Pittsburgh, PA
+Distance Learning
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- MicroMasters® Program in Statistics and Data Science
+- instructed by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __The University of Hong Kong__ `2006.9 - 2009.5`
 ```
-New York, NY
+Hong Kong
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
-```
-Carlisle, PA
-```
-- B.S. in Computer Science, _Summa Cum Laude_
+- B.S. in Science, _Surveying_
 - Computer Science Departmental Honors
+
+### __The University of Hong Kong__ `2006.9 - 2009.5`
+```
+Hong Kong
+```
+- B.S. in Science, _Surveying_
 
 ## Publications
 
