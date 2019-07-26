@@ -32,8 +32,7 @@ Distance Learning
 ```
 Hong Kong
 ```
-- B.S. in Science, _Surveying_
-- Computer Science Departmental Honors
+- B.S. in Surveying
 
 ### __The University of Hong Kong__ `2006.9 - 2009.5`
 ```
