@@ -53,12 +53,12 @@ Hong Kong
 - B.S. in Surveying
 
 ## Public Exam Result
-### Hong Kong Advanced Level Examination
+###__Hong Kong Advanced Level Examination__
 Pure Mathematics: B<br>
 Applied Mathematics: C<br>
 Physics: B<br>
 
-### Hong Kong Certificate of Education Examination
+###__Hong Kong Certificate of Education Examination__
 Mathematics: A<br>
 Additional Mathematics: A<br>
 Physics: B<br>
@@ -93,13 +93,6 @@ Valuation purposes include auditing, financing reporting, investor internal refe
 Conduct various market researches for industry report and consulting works<br>
 Prepare presentation material and proposal to nurture existing clients and pitch for new jobs<br>
 
-
-## Teaching
-
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
 
