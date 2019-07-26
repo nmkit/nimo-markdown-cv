@@ -4,11 +4,16 @@ title: Terry NG
 email: 
     url: mailto:kit91134@gmail.com
     text: kit91134@gmail.com
-homepage:
-    url: https://nmkit.github.io/tng-markdown-cv/
-    text: https://nmkit.github.io/tng-markdown-cv/
+contact number:
+    64824683
+    
 ---
 # Terry __NG__
+
+## Profile
+-31 years old
+-Married
+-566
 
 <!--
 include contact information from the front matter
