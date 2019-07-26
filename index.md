@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Terry NG
+title: Gary NG
 email: 
     url: mailto:kit91134@gmail.com
     text: kit91134@gmail.com
@@ -8,7 +8,7 @@ contact number:
     5669 8398
     
 ---
-# Terry __NG__
+# Gary __NG__
 
 <!--
 include contact information from the front matter
@@ -34,7 +34,7 @@ Distance Learning
 
 ### __Udemy Online Course__ `2018.4 - 2018.5`
 ```
-Hong Kong
+Distance Learning
 ```
 - Complete Python Bootcamp: Go from zero to hero in Python 3
 - instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/),Head of Data Science, Pierian Data Inc. 
