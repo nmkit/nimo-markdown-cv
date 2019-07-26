@@ -5,7 +5,7 @@ email:
     url: mailto:kit91134@gmail.com
     text: kit91134@gmail.com
 contact number:
-    64824683
+    5669 8398
     
 ---
 # Terry __NG__
@@ -21,7 +21,7 @@ Supported arguments:
 ## Profile
 -32 years old<br>
 -Married<br>
--5669 8398<br>
+-Mobile:5669 8398<br>
 
 ## Education
 
