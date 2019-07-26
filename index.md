@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Terry NG
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+    url: mailto:kit91134@gmail.com
+    text: kit91134@gmail.com
 homepage:
     url: http://cs.cmu.edu/~woden
     text: cs.cmu.edu/~woden
