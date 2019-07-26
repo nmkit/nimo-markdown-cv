@@ -77,7 +77,7 @@ CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
 _Estate Surveyor_<br>
 Responsible for the leasing out of government property<br>
 Utilize property management system, i.e. GPIS, in managing the leasing activities of government property<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+
 
 ### __First Capital Investment Consultant Limited__ `2015.8 - 2018.12`
 _Senior Manager_<br>
