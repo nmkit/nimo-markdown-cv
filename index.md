@@ -21,24 +21,32 @@ Supported arguments:
 
 ## Education
 
-### __Massachusetts Institute of Technology__ `2019.6 -`
+### __Massachusetts Institute of Technology__ `2018.6 -2019.6`
 ```
 Distance Learning
 ```
 - MicroMasters® Program in Statistics and Data Science
 - instructed by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
 
-### __The University of Hong Kong__ `2006.9 - 2009.5`
+### __Udemy Online Course__ `2018.4 - 2018.5`
 ```
 Hong Kong
 ```
-- B.S. in Surveying
+- Complete Python Bootcamp: Go from zero to hero in Python 3
+- instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/),Head of Data Science, Pierian Data Inc. 
+
+### __The Chinese University of Hong Kong__ `2016.9 - 2016.12`
+```
+Hong Kong
+```
+- Introduction to JAVA Programming Course
+- Instructed by [Michael P.F Fung](http://www.cse.cuhk.edu.hk/~pffung/)
 
 ### __The University of Hong Kong__ `2006.9 - 2009.5`
 ```
 Hong Kong
 ```
-- B.S. in Science, _Surveying_
+- B.S. in Surveying
 
 ## Publications
 
