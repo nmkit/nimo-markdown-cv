@@ -54,8 +54,16 @@ Hong Kong
 
 ## Public Exam Result
 ### Hong Kong Advanced Level Examination
-__Pure Mathematics: B__
-__Applied Mathematics: C__
+Pure Mathematics: B<br>
+Applied Mathematics: C<br>
+Physics: B<br>
+
+### Hong Kong Certificate of Education Examination
+Mathematics: A<br>
+Additional Mathematics: A<br>
+Physics: B<br>
+Chemistry: A<br>
+Biology: A<br>
 
 ### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 __Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
