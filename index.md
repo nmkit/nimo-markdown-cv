@@ -19,8 +19,8 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 ## Profile
-32 years old<br>
-Married<br>
+Age: 32<br>
+Marital Status: Married<br>
 Mobile:5669 8398<br>
 
 ## Education
