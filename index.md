@@ -65,23 +65,23 @@ __Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
 
 ### __HKSAR Lands Department__  `2018.12 - Now`
 _Estate Surveyor_<br>
-Responsible for the leasing out of government property
-Utilize property management system, i.e. GPIS, in managing the leasing activities of government property
+Responsible for the leasing out of government property<br>
+Utilize property management system, i.e. GPIS, in managing the leasing activities of government property<br>
 __Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
 ### __First Capital Investment Consultant Limited__ `2015.8 - 2018.12`
 _Senior Manager_<br>
 Carry out business and financial asset valuation in support of acquisition, financing and listing project<br>
-For example, valuer for the connected transactions between Fantasia (1777.HK) and ColorLife (1778.HK), internal advisor of PT International(0372.HK) in acquiring preference share of a port facilities in Guangxi
-Familiar with Wind financial database
+For example, valuer for the connected transactions between Fantasia (1777.HK) and ColorLife (1778.HK), internal advisor of PT International(0372.HK) in acquiring preference share of a port facilities in Guangxi<br>
+Familiar with Wind financial database<br>
 
 
 ### __CBRE__ `2010.9 - 2015.4`
 _Manager_<br>
-Execute property valuation, market research, investment analysis and other consulting works for Hong Kong and China market 
-Valuation purposes include auditing, financing reporting, investor internal reference, public circular for listed company’s transaction, initial public offering and etc.
-Conduct various market researches for industry report and consulting works
-Prepare presentation material and proposal to nurture existing clients and pitch for new jobs
+Execute property valuation, market research, investment analysis and other consulting works for Hong Kong and China market <br>
+Valuation purposes include auditing, financing reporting, investor internal reference, public circular for listed company’s transaction, initial public offering and etc<br>
+Conduct various market researches for industry report and consulting works<br>
+Prepare presentation material and proposal to nurture existing clients and pitch for new jobs<br>
 
 
 ## Teaching
