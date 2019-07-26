@@ -10,11 +10,6 @@ contact number:
 ---
 # Terry __NG__
 
-## Profile
--31 years old
--Married
--566
-
 <!--
 include contact information from the front matter
 Supported arguments:
@@ -23,6 +18,10 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
+## Profile
+-32 years old<br>
+-Married<br>
+-5669 8398<br>
 
 ## Education
 
