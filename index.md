@@ -25,7 +25,7 @@ Supported arguments:
 ```
 Distance Learning
 ```
-- MicroMasters® Program in Statistics and Data Science
+- MicroMasters Program in Statistics and Data Science
 - instructed by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
 
 ### __Udemy Online Course__ `2018.4 - 2018.5`
