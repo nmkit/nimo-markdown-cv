@@ -53,12 +53,12 @@ Hong Kong
 - B.S. in Surveying
 
 ## Public Exam Result
-###__Hong Kong Advanced Level Examination__
+### __Hong Kong Advanced Level Examination__
 Pure Mathematics: B<br>
 Applied Mathematics: C<br>
 Physics: B<br>
 
-###__Hong Kong Certificate of Education Examination__
+### __Hong Kong Certificate of Education Examination__
 Mathematics: A<br>
 Additional Mathematics: A<br>
 Physics: B<br>
