@@ -65,17 +65,12 @@ Physics: B<br>
 Chemistry: A<br>
 Biology: A<br>
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+## Professional Qualification
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
-
+Registered Real Estate Appraiser in PRC `2017` <br>
+Registered Professional Surveyor (General Practices) `2014` <br>
+Chartered Financial Analyst (CFA) `2013` <br>
+CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
 ## Experience
 
 ### __HKSAR Lands Department__  `2018.12 - Now`
@@ -107,15 +102,7 @@ Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Professional Qualification
-
-Registered Real Estate Appraiser in PRC `2017` <br>
-Registered Professional Surveyor (General Practices) `2014` <br>
-Chartered Financial Analyst (CFA) `2013` <br>
-CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
-
-
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2019 -->
