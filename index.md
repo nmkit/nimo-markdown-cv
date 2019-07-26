@@ -5,10 +5,10 @@ email:
     url: mailto:kit91134@gmail.com
     text: kit91134@gmail.com
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: https://nmkit.github.io/tng-markdown-cv/
+    text: https://nmkit.github.io/tng-markdown-cv/
 ---
-# Wode __Ni__
+# Terry __NG__
 
 <!--
 include contact information from the front matter
