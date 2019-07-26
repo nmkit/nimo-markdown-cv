@@ -71,7 +71,7 @@ __Penrose__ is a system that automatically visualizes mathematics using two doma
 
 ### __First Capital Investment Consultant Limited__ `2015.8 - 2018.12`
 _Senior Manager_<br>
-Carry out business and financial asset valuation in support of acquisition, financing and listing project
+Carry out business and financial asset valuation in support of acquisition, financing and listing project<br>
 For example, valuer for the connected transactions between Fantasia (1777.HK) and ColorLife (1778.HK), internal advisor of PT International(0372.HK) in acquiring preference share of a port facilities in Guangxi
 Familiar with Wind financial database
 
@@ -97,6 +97,7 @@ Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 Registered Real Estate Appraiser in PRC `2017` <br>
 Registered Professional Surveyor (General Practices) `2014` <br>
 Chartered Financial Analyst (CFA) `2013` <br>
+CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
 
 
 
