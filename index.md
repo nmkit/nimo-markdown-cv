@@ -25,12 +25,18 @@ Mobile:5669 8398<br>
 
 ## Education
 
-### __Massachusetts Institute of Technology__ `2018.6 -2019.6`
+### __Massachusetts Institute of Technology__ `2019.7 - `
 ```
 Distance Learning
 ```
 - MicroMasters Program in Statistics and Data Science
 - instructed by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
+
+### __HKU School of Professional and Continuing Education__ `2018.6 -2019.6`
+```
+Hong Kong
+- Postgraduate Diploma of Applied Financial Engineering
+- financial trading programme developed and available on github for reference 
 
 ### __Udemy Online Course__ `2018.4 - 2018.5`
 ```
@@ -67,6 +73,7 @@ Biology: A<br>
 
 ## Professional Qualification
 
+FRM Level 1 Pass`2019` <br>
 Registered Real Estate Appraiser in PRC `2017` <br>
 Registered Professional Surveyor (General Practices) `2014` <br>
 Chartered Financial Analyst (CFA) `2013` <br>
