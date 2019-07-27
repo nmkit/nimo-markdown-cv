@@ -25,7 +25,7 @@ Mobile:5669 8398<br>
 
 ## Education
 
-### __Massachusetts Institute of Technology__ `2019.7 - `
+### __Massachusetts Institute of Technology__ `2019.7 - Now`
 ```
 Distance Learning
 ```
