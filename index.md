@@ -20,7 +20,7 @@ Supported arguments:
 {% include cv-contact.html %}
 ## Profile
 Age: 32<br>
-Nationality: Chinese Hong Kong
+Nationality: Chinese Hong Kong<br>
 Mobile:5669 8398<br>
 
 ## Education
