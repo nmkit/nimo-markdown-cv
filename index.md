@@ -44,7 +44,7 @@ Hong Kong
 Distance Learning
 ```
 - Complete Python Bootcamp: Go from zero to hero in Python 3
-- instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/),Head of Data Science, Pierian Data Inc. 
+- instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Head of Data Science, Pierian Data Inc. 
 
 ### __The Chinese University of Hong Kong__ `2016.9 - 2016.12`
 ```
