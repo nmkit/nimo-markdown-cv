@@ -64,6 +64,7 @@ Hong Kong
 Pure Mathematics: B<br>
 Applied Mathematics: C<br>
 Physics: B<br>
+English: C<br>
 
 ### __Hong Kong Certificate of Education Examination__
 Mathematics: A<br>
@@ -71,6 +72,7 @@ Additional Mathematics: A<br>
 Physics: B<br>
 Chemistry: A<br>
 Biology: A<br>
+Use of English: D<br>
 
 ## Professional Qualification
 
