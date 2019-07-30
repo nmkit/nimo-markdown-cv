@@ -45,14 +45,14 @@ Hong Kong
 Distance Learning
 ```
 - Complete Python Bootcamp: Go from zero to hero in Python 3
-- instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Head of Data Science, Pierian Data Inc. 
+- instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Pierian Data Inc. 
 
 ### __The Chinese University of Hong Kong__ `2016.9 - 2016.12`
 ```
 Hong Kong
 ```
 - Introduction to JAVA Programming Course
-- Instructed by [Michael P.F Fung](http://www.cse.cuhk.edu.hk/~pffung/), Senior Lecturer, Department of Computer Science and Engineering
+- Instructed by [Michael P.F Fung](http://www.cse.cuhk.edu.hk/~pffung/), Department of Computer Science and Engineering
 
 ### __The University of Hong Kong__ `2006.9 - 2009.5`
 ```
