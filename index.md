@@ -59,7 +59,7 @@ Hong Kong
 Hong Kong
 ```
 - B.S. in Surveying
-
+<br>
 ## Professional Qualification
 
 FRM Level 1 Pass`2019` <br>
@@ -82,7 +82,7 @@ Physics: _B_`2004`<br>
 Chemistry: _A_`2004`<br>
 Biology: _A_`2004`<br>
 English: _C_`2005`<br>
-
+<br>
 
 ## Experience
 
