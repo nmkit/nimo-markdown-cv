@@ -69,18 +69,18 @@ CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
 
 ## Public Exam Result
 ### __Hong Kong Advanced Level Examination__
-Pure Mathematics: B`2006`<br>
-Applied Mathematics: C`2006`<br>
-Physics: B`2006`<br>
-Use of English: D`2006`<br>
+Pure Mathematics: _B_`2006`<br>
+Applied Mathematics: _C_`2006`<br>
+Physics: _B_`2006`<br>
+Use of English: _D_`2006`<br>
 
 ### __Hong Kong Certificate of Education Examination__
-Mathematics: A`2004`<br>
-Additional Mathematics: A`2004`<br>
-Physics: B`2004`<br>
-Chemistry: A`2004`<br>
-Biology: A`2004`<br>
-English: C`2005`<br>
+Mathematics: _A_`2004`<br>
+Additional Mathematics: _A_`2004`<br>
+Physics: _B_`2004`<br>
+Chemistry: _A_`2004`<br>
+Biology: _A_`2004`<br>
+English: _C_`2005`<br>
 
 
 ## Experience
