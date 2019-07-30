@@ -2,8 +2,8 @@
 layout: cv
 title: Gary NG
 email: 
-    url: mailto:kit91134@gmail.com
-    text: kit91134@gmail.com
+    url: mailto:kei91134@yahoo.com.hk
+    text: kei91134@yahoo.com.hk
 contact number:
     5669 8398
     
