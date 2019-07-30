@@ -8,7 +8,7 @@ contact number:
     5669 8398
     
 ---
-# Gary __NG__
+# Ng Kwok Wai __Gary__
 
 <!--
 include contact information from the front matter
@@ -20,7 +20,7 @@ Supported arguments:
 {% include cv-contact.html %}
 ## Profile
 Age: 32<br>
-Marital Status: Married<br>
+Nationality: Chinese Hong Kong
 Mobile:5669 8398<br>
 
 ## Education
