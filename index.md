@@ -68,6 +68,7 @@ Registered Real Estate Appraiser in PRC `2017` <br>
 Registered Professional Surveyor (General Practices) `2014` <br>
 Chartered Financial Analyst (CFA) `2013` <br>
 CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
+<br>
 
 ## Public Exam Result
 ### __Hong Kong Advanced Level Examination__
