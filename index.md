@@ -35,6 +35,7 @@ Distance Learning
 ### __HKU School of Professional and Continuing Education__ `2018.6 -2019.6`
 ```
 Hong Kong
+```
 - Postgraduate Diploma of Applied Financial Engineering
 - financial trading programme developed and available on github for reference 
 
