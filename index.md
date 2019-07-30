@@ -59,6 +59,14 @@ Hong Kong
 ```
 - B.S. in Surveying
 
+## Professional Qualification
+
+FRM Level 1 Pass`2019` <br>
+Registered Real Estate Appraiser in PRC `2017` <br>
+Registered Professional Surveyor (General Practices) `2014` <br>
+Chartered Financial Analyst (CFA) `2013` <br>
+CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
+
 ## Public Exam Result
 ### __Hong Kong Advanced Level Examination__
 Pure Mathematics: B<br>
@@ -74,13 +82,7 @@ Chemistry: A<br>
 Biology: A<br>
 Use of English: D<br>
 
-## Professional Qualification
 
-FRM Level 1 Pass`2019` <br>
-Registered Real Estate Appraiser in PRC `2017` <br>
-Registered Professional Surveyor (General Practices) `2014` <br>
-Chartered Financial Analyst (CFA) `2013` <br>
-CFA Level 1 to 3 Exam Pass in 1st Attempt `2010 -2012` <br>
 ## Experience
 
 ### __HKSAR Lands Department__  `2018.12 - Now`
