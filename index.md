@@ -39,6 +39,7 @@ Hong Kong
 ```
 - Postgraduate Diploma of Applied Financial Engineering
 - financial trading programme developed and available on github for reference 
+- instructed by [Agnes Chung-yan Tse](https://www.kitco.com/ind/Tse/bio.html),[Alan Cheung](https://www.linkedin.com/in/alanc1988/)...
 
 ### __Udemy Online Course__ `2018.4 - 2018.5`
 ```
@@ -46,6 +47,7 @@ Distance Learning
 ```
 - Complete Python Bootcamp: Go from zero to hero in Python 3
 - instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Pierian Data Inc. 
+- contributed to a few Python projects in Github available for reference
 
 ### __The Chinese University of Hong Kong__ `2016.9 - 2016.12`
 ```
