@@ -33,7 +33,7 @@ Distance Learning
 - MicroMasters Program in Statistics and Data Science
 - instructed by [Regina Barzilay](http://people.csail.mit.edu/regina/) and [Dimitri Bertsekas](http://www.mit.edu/~dimitrib/home.html)
 
-### __HKU School of Professional and Continuing Education__ `2018.6 -2019.6`
+### __HKU School of Professional and Continuing Education__ `2018.8 -2019.7`
 ```
 Hong Kong
 ```
@@ -41,7 +41,7 @@ Hong Kong
 - instructed by various market practitioners [Agnes Tse](https://www.kitco.com/ind/Tse/bio.html), [Alan Cheung](https://www.linkedin.com/in/alanc1988/)...
 - financial trading programme developed is available on github for reference 
 
-### __Udemy Online Course__ `2018.4 - 2018.5`
+### __Udemy Online Course__ `2018.4 - 2018.6`
 ```
 Distance Learning
 ```
@@ -49,7 +49,7 @@ Distance Learning
 - instructed by [Jose Portilla](https://www.udemy.com/user/joseportilla/), Pierian Data Inc. 
 - contributed to a few Python projects in Github available for reference
 
-### __The Chinese University of Hong Kong__ `2016.9 - 2016.12`
+### __The Chinese University of Hong Kong__ `2016.9 - 2017.2`
 ```
 Hong Kong
 ```
