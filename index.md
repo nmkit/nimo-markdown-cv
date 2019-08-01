@@ -22,6 +22,7 @@ Supported arguments:
 Age: 32<br>
 Mobile:5669 8398<br>
 Notice Period: 1 month<br>
+Current Salary: HKD 65,000 per month x 12<br>
 Expected Salary: HKD 30,000 per month x 13<br>
 <br>
 
