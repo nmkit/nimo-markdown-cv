@@ -18,10 +18,11 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-## Profile
+## Basic Detials
 Age: 32<br>
-Nationality: Chinese Hong Kong<br>
 Mobile:5669 8398<br>
+Notice Period: 1 month<br>
+Expected Salary: HKD 30,000 per month x 13<br>
 <br>
 
 ## Education
