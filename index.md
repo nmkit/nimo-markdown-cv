@@ -38,7 +38,7 @@ Distance Learning
 Hong Kong
 ```
 - Postgraduate Diploma of Applied Financial Engineering
-- instructed by market practitioner [Agnes Tse](https://www.kitco.com/ind/Tse/bio.html), [Alan Cheung](https://www.linkedin.com/in/alanc1988/)...
+- instructed by various market practitioners [Agnes Tse](https://www.kitco.com/ind/Tse/bio.html), [Alan Cheung](https://www.linkedin.com/in/alanc1988/)...
 - financial trading programme developed is available on github for reference 
 
 ### __Udemy Online Course__ `2018.4 - 2018.5`
