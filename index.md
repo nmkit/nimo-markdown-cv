@@ -99,9 +99,9 @@ _Estate Surveyor_<br>
 
 ### __First Capital Investment Consultant Limited__ `2015.8 - 2018.12`
 _Senior Manager_<br>
--Carry out business and financial asset valuation in support of acquisition, financing and listing project, e.g.<br>
-  -transactions between Fantasia (1777.HK) and ColorLife (1778.HK)<br>
-  -advisor of PT International(0372.HK) in acquiring share of a port facilities in Guangxi<br>
+-Carry out business and financial asset valuation in support of acquisition, financing and listing project, e.g.:<br>
+  -valuation report for transactions between Fantasia (1777.HK) and ColorLife (1778.HK)<br>
+  -consideration valuation for PT International(0372.HK) in acquiring share of a port facilities in Guangxi<br>
 -Familiar with Wind financial database<br>
 
 
